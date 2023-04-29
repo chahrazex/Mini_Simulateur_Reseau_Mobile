@@ -1,0 +1,81 @@
+.AnchorPane
+{
+    -fx-background-color: #000000;
+}
+.LeftBar
+{
+    -fx-background-color: linear-gradient(to top left, #c6edff, #a3c6ff);
+    -fx-background-radius: 45 0 0 45;
+}
+.PaneTextFieled
+{
+    -fx-background-color: #fff;
+}
+.jfx-snackbar-content
+{
+    -fx-background-color: #4F8A10;
+    -fx-prompt-text-fill: white;
+    -fx-padding: 17;
+    -fx-background-radius: 40;
+}
+/* Styling the slider track */
+.jfx-slider > .track {
+    -fx-background-color: #F2F2F2;
+}
+
+/* Styling the slider thumb */
+.jfx-slider > .thumb {
+    -fx-background-color: #272343;
+}
+
+/* Styling the filled track */
+.jfx-slider > .colored-track {
+    -fx-background-color: #272343;
+}
+
+/* Styling the animated thumb */
+.jfx-slider > .animated-thumb
+{
+    -fx-background-color: #272343;
+}
+
+/* Styling the slider value text inside animated thumb */
+.jfx-slider .slider-value
+{
+    -fx-fill: white;
+    -fx-stroke: white;
+}
+.PaneNoeud
+{
+    -fx-background-color: linear-gradient(to top left, #c6edff, #a3c6ff);
+    -fx-background-radius: 10;
+}
+.PaneBaseStaion
+{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10;
+}
+.ExitAndSavebtn
+{
+    -fx-background-color: linear-gradient(to top left, #c6edff, #a3c6ff);
+}
+.GenererBtn
+{
+    -fx-background-color:  #272343;
+    -fx-background-radius: 20;
+}
+.PaneSimulation
+{
+    -fx-background-color:  #F2F2F2;
+}
+.TitlePane
+{
+    -fx-background-color: #fff;
+    -fx-background-radius:  0 45 0 0;
+}
+.scrollPane
+{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+
+}
